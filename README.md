@@ -6,7 +6,7 @@
 
 - ## SetUp
 
-    1.You should have installed python, if not you can download at [Python](https://www.python.org/
+    1.You should have installed python, if not you can download using [Python](https://www.python.org/
     ).
     
     2.Clone the repository in your directory using the following command 
@@ -18,7 +18,7 @@
     3.Run the following command for initial setup to install some requirements.
      
      ```python
-     pip  install -r requirements
+     pip  install -r requirements.txt
      ```
 
 - ## Usage
