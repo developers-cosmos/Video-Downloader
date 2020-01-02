@@ -50,7 +50,8 @@ The run() method of flask runs the application, also we can used html,css in our
 3. If you want to deploy your application we have various method, I used Amazon Elastic Bean which is an orchestration service offered by Amazon Web Services for deploying applications.
 
 ![our application](Images/youtube.jpg)
-I'm attaching a youtube tutorial which will be veru useful if you want your application to be deployed, Click [here](https://www.youtube.com/watch?v=rvxucBBDlPQ&t=351s).
+
+I'm attaching a youtube tutorial which will be very useful if you want your application to be deployed, Click [here](https://www.youtube.com/watch?v=rvxucBBDlPQ&t=351s).
 
 - ## Additonal Resources
 
